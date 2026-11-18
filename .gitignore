@@ -1,0 +1,9 @@
+/local/
+/data/
+/web/node_modules/
+/web/dist/
+/model-gate
+*.sqlite*
+.env
+/docs/验收记录.md
+/docs/playground.jpg
